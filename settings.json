@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
+    "ip": "unstablesmpv.play.hosting",
     "port": 92591,
     "version": "1.21.1"
   },
